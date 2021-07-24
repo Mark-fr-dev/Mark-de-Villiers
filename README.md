@@ -78,7 +78,7 @@
 
 - Achieved while at CSIR
 
-    Designed and built an autonomous mobile robot for service applications
+    [Designed and built an autonomous mobile robot for service applications](https://youtu.be/SByeUZZ0zec)
 
     Designed and built aftermarket automotive seat cover, heating and cooling of passengers, for external clients
 
